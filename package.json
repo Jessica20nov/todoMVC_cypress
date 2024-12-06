@@ -1,0 +1,10 @@
+{
+  "name": "Bootcamp_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jéssica Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.16.1"
+  }
+}
